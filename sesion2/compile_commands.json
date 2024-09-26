@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo11",
+  "command": "clang++ -c \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo11\\main.cpp\" -o \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo11\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo12",
+  "command": "clang++ -c \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo12\\main.cpp\" -o \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo12\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo10",
+  "command": "clang++ -c \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo10\\main.cpp\" -o \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo10\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo9\\main.cpp",
+  "directory": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo9",
+  "command": "clang++ -c \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo9\\main.cpp\" -o \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo9\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\pasoPorReferencia\\main.cpp",
+  "directory": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\pasoPorReferencia",
+  "command": "clang++ -c \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\pasoPorReferencia\\main.cpp\" -o \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\pasoPorReferencia\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo1",
+  "command": "clang++ -c \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo1\\main.cpp\" -o \"C:\\Users\\javim\\OneDrive\\Documentos\\UAH\\Estructura de datos\\sesion2\\ejemplo1\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
